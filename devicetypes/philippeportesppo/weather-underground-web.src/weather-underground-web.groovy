@@ -300,4 +300,4 @@ def refresh() {
             state.highhumidityalert=false
     }
 
-}    
+}
